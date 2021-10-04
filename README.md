@@ -1,3 +1,4 @@
+[![MasterHead](https://drive.google.com/file/d/1XaFa6stxoYRG9ZZizH1dcXEyUqoCmatq/view?usp=sharing)](https://www.linkedin.com/in/anmol-gupta-95b354211/)
 <h1 align="center">Hi 👋, I'm Anmol Gupta</h1>
 <h3 align="center">Frontend Developer | React | Competitive Programmer | C++</h3>
 
