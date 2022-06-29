@@ -10,6 +10,6 @@ I'm **Anmol Gupta** , Creative Web Developer and Programmer pursuing Bachelor of
 
 ## Contributions :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolg84&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anmolg84)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolg84&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anmolg84)   -->
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/anmolg84)   -->
+![GitHub metrics](https://metrics.lecoq.io/anmolg84)  
