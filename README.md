@@ -1,7 +1,7 @@
 ![](https://github.com/anmolg84/anmolg84/blob/main/Yellow%20Corporate%20LinkedIn%20Banner.png)
 
 ## About Me :
-I'm **Anmol Gupta** , Creative Web Developer and Programmer pursuing Bachelor of Technology focused in Computer Science Engineering from Institute of Engineering And Technology- DAVV .
+I'm **Anmol Gupta** , Creative Web Developer and Programmer pursuing Bachelor of Technology focused in Computer Science Engineering from Institute of Engineering And Technology - DAVV.
 
 ## Key Skills :
 
