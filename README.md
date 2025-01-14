@@ -8,13 +8,3 @@ My professional experience includes roles as a React Developer at Fettle Tech LL
 
 * Languages/Frameworks : C++, Java, Spring Framework, Spring Integration, Google Cloud Platform(GCP), Microservices, SQL, React.js, HTML, CSS, Javascript, Git/GitHub.
 * Relevant Coursework : Data Structures and Algorithms, Object Oriented Programming, Database Management, Operating System, Computer Networks, System Design.
-
-## Contributions :
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolg84&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anmolg84)   -->
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/anmolg84)   -->
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anmolg84)   
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolg84&show_icons=true)   -->
-
-
