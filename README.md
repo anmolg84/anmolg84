@@ -11,5 +11,7 @@ Let’s connect if you’re building something impactful in the backend or cloud
 
 ## Key Skills :
 
-* Languages/Frameworks : C++, Java, Spring Framework, Spring Integration, Google Cloud Platform(GCP), Microservices, SQL, React.js, HTML, CSS, Javascript, Git/GitHub.
-* Relevant Coursework : Data Structures and Algorithms, Object Oriented Programming, Database Management, Operating System, Computer Networks, System Design.
+* Languages: C++, Java, SQL
+* Frameworks & Tools: Spring, Spring Boot, REST APIs, Microservices, Git/GitHub, Agile
+* Cloud & DevOps: Google Cloud Platform (GCP), Kubernetes, Docker, GitHub Actions
+* CS Fundamentals: DSA, OOP, OS, DBMS, System Design
