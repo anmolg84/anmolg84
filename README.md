@@ -7,7 +7,7 @@ With a B.Tech in Computer Science from IET DAVV and a strong foundation in data 
 
 I’m passionate about backend architecture, clean code, and building systems that scale. Outside of work, I actively participate in hackathons, pursue certifications, and contribute to side projects that keep me learning and growing. 
 
-Let’s connect if you’re building something impactful in the backend or cloud space — or looking for someone who thrives on ownership and delivering robust solutions.
+Let’s connect if you’re building something impactful in the backend or cloud space — or looking for someone who thrives on ownership and delivering robust solutions :)
 
 ## Key Skills :
 
