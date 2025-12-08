@@ -1,5 +1,3 @@
-![](https://github.com/anmolg84/anmolg84/blob/main/1690445497305.jpeg)
-
 ## About Me :
 I’m a Backend Engineer with over 2.5 years of experience developing scalable, cloud-native applications with a focus on reliability and performance. At Deutsche Bank, I’ve driven key end-to-end initiatives including legacy system modernisation, distributed ETL pipeline design, micro services development, infrastructure automation, and CI/CD implementation using modern cloud platforms and DevOps tools.
 
